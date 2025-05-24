@@ -13,7 +13,7 @@ flash memory or permanent memory.
 <BR>
 This commands includes
 <BR>
-• Configuring the Router commands
+• Configuring the Router commands 
 <BR>
 • General Commands to configure network
 <BR>
